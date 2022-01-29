@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.button {
+  background-color: green;
+  display: inline-block;
+}
+
+.greeting {
+  margin: 0;
+  padding: 0;
+}
