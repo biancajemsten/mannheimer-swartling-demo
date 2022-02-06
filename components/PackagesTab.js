@@ -1,12 +1,10 @@
 import * as React from "react";
 import { Button } from "@mui/material";
 import css from "../styles/FEBETab.module.css";
-import JSConfetti from "js-confetti";
 
 export default function PackageTab() {
   function onClick() {
-    const jsConfetti = new JSConfetti();
-    jsConfetti.addConfetti();
+    // add confetti code here
   }
 
   return (
