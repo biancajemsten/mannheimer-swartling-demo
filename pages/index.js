@@ -58,13 +58,13 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://biancajemsten.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
+          Coded by{" "}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/b-logo.png" alt="B Logo" width={16} height={16} />
           </span>
         </a>
       </footer>
